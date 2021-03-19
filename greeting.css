@@ -1,0 +1,18 @@
+body{
+    background-color:aquamarine;
+    color: blue;
+}
+#Heading{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+
+}
+.hs{
+    display: flex;
+    justify-content: center;
+    color:rgb(70% 30% 50%);
+    text-transform: uppercase;
+    
+}
+
